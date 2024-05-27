@@ -1,0 +1,86 @@
+NAME : eil76
+TYPE : TOUR
+DIMENSION :76
+MAX_COMPUTATION_TIME : NOT_AVAILABLE
+COMPUTATION_TIME : 00h00mn1s
+MAX_COST : NOT_AVAILABLE
+COST : 2216.591477
+START_NODE : NOT_AVAILABLE
+TOUR_SECTION
+1 
+20 
+27 
+8 
+72 
+57 
+35 
+59 
+2 
+69 
+5 
+33 
+50 
+76 
+67 
+38 
+52 
+70 
+26 
+23 
+15 
+7 
+46 
+39 
+16 
+22 
+47 
+10 
+43 
+74 
+29 
+21 
+28 
+75 
+45 
+42 
+25 
+19 
+55 
+53 
+51 
+48 
+30 
+17 
+9 
+49 
+3 
+31 
+32 
+34 
+37 
+61 
+60 
+58 
+68 
+71 
+36 
+63 
+73 
+65 
+18 
+44 
+4 
+6 
+24 
+11 
+66 
+12 
+54 
+13 
+62 
+40 
+56 
+41 
+64 
+14 
+EOF

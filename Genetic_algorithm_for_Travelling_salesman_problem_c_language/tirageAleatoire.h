@@ -1,0 +1,2 @@
+
+int tirageAlea(long valeurMax);
